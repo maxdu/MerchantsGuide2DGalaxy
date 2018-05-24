@@ -1,6 +1,12 @@
 ## DONE 
 * verify it by using Eclipse running under windows run the main function inside the GuideRobot class.
 
+* Way #2
+  run the main function inside the ProcessByInputTextFile class.
+you need provide absolute file path for the input text file. 
+e.g. D:\eclipse_workspace\MerchantsGuide2DGalaxy\src\main\resources\inputs.txt
+
+
 ====================
 
 Problem Three: Merchant's Guide to the Galaxy
